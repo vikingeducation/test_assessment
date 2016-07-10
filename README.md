@@ -1,3 +1,5 @@
+Johnny Steenbergen
+
 ## Test Assessment
 
 Welcome to the VCS test assessment. You'll be writing code to make RSpec tests pass.
@@ -32,7 +34,7 @@ You're ready to build!
 
 ### Testing
 
-Your mission is to make the tests in the `spec/` folder pass. 
+Your mission is to make the tests in the `spec/` folder pass.
 
 1. Start with the error above, resolve it
 1. Once you can, run the tests
@@ -51,13 +53,3 @@ Your grade will be the percentage of: `PASSING_TESTS / TOTAL_TESTS`
 
 
 **NOTE:** *This repo is copyrighted material for your private use only and not to be shared outside of Viking Code School.*
-
-
-
-
-
-
-
-
-
-
