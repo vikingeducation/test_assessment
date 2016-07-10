@@ -1,5 +1,7 @@
 ## Test Assessment
 
+Alex Lach
+
 Welcome to the VCS test assessment. You'll be writing code to make RSpec tests pass.
 
 **Important!** Upon running `rspec` or `bundle exec rspec` you'll get the following error:**
