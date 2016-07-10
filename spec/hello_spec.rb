@@ -10,8 +10,3 @@ describe Hello do
     end
   end
 end
-
-
-
-
-
